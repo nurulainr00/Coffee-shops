@@ -1,0 +1,6 @@
+Caramel latte,15
+Vanilla latte,15
+Matcha latte,10
+Pavlova,10
+Cupcake,10
+Red velvelt cake,10
